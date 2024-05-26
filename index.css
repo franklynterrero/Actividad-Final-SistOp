@@ -1,0 +1,15 @@
+header, body {
+    background-color: red;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 30%;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
